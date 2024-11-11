@@ -18,7 +18,6 @@ fn print_todos(todos: Vec<Todo>) -> () {
     }
 }
 
-
 fn main() {
     let actions = Actions::init();
     let mut todos = Todos::init();
