@@ -1,1 +1,1 @@
-A simple TODO to learn rust, created for the CLI.
+A simple TODO, created for the CLI.
